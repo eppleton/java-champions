@@ -1494,7 +1494,7 @@
 
 |{counter:idx}
 |http://blog.tremblay.pro/[Henri Tremblay]
-|https://twitter.com/henri_temblay[@henri_temblay]
+|https://twitter.com/henri_tremblay[@henri_tremblay]
 |Canada
 |2016
 
